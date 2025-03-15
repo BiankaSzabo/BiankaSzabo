@@ -12,15 +12,15 @@ When I'm not coding, you’ll find me 📷 capturing moments through my camera!
 
 ### 🌧️ Rainy Days  
 **An e-commerce website for rain jackets.** Built with HTML, CSS, and JavaScript.  
-🔗 [View on GitHub](https://github.com/BiankaSzabo/Rainydays)  
+🔗 [View Live](https://biankaszabo.github.io/html-css-course-assignment/)  
 
 ### 🏛️ Science Museum  
 **An interactive and informative science museum website.**  
-🔗 [View on GitHub](your-github-link-here)  
+🔗 [View Live](https://biankaszabo.github.io/semester-project-/homepage.html)  
 
 ### 🌴 Bali Bliss  
 **A beautiful travel booking website for a Bali resort.**  
-🔗 [View on GitHub](your-github-link-here)  
+🔗 [View Live](https://biankaszabo.github.io/FED1-PE1-BiankaSzabo/)  
 
 ---
 

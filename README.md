@@ -4,7 +4,15 @@
 
 I'm a **second-year Front-End Developer student at Noroff**, passionate about crafting clean, interactive, and user-friendly websites. I thrive on solving coding challenges, exploring new design trends, and bringing ideas to life through code.  
 
-When I'm not coding, you’ll find me 📷 capturing moments through my camera!  
+---
+
+## 🛠️ Languages & Tools  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
@@ -28,13 +36,6 @@ When I'm not coding, you’ll find me 📷 capturing moments through my camera!
 
 Want to see more of my work? Check out my portfolio!  
 🔗 [Visit My Portfolio](https://biankaszabo.github.io/portfolio1/)  
-
----
-
-## 💡 Fun Facts About Me  
-
-🎨 **Creative at heart** – I love blending design with code  
-📸 **Photography lover** – I enjoy capturing moments through my lens  
 
 ---
 
